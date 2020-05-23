@@ -50,3 +50,5 @@ To run the Spring Boot application using Maven, run the following command from t
 ### mvn spring-boot:run
 
 navigate to http://localhost:8080 to see the welcome page.
+
+Referenced from https://github.com/ihappyk/AppName
